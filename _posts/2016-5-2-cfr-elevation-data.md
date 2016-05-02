@@ -19,7 +19,7 @@ published: true
 1. Launch GRASS with the following sample data [Grass Sample Data](https://grass.osgeo.org/download/sample-data/)
 
 2. List available raster files from the sample data and load one 
-with name sat5_1987_10.
+with name lat5_1987_10.
 Execute the following command on the grass console.
 <div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 3%;">
    d.rast map= lsat5_1987_10
