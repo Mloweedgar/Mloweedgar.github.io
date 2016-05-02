@@ -20,10 +20,14 @@ published: true
 
 2. List available raster files from the sample data and load one 
 with name sat5_1987_10.
-Execute the following command on the console.
-<div style="background-color:#CCC; border-radius:4px; padding:4% 2% 0 2%;">
+Execute the following command on the grass console.
+<div style="background-color:#CCC; border-radius:4px; padding:3% 2% 0 2%;">
 d.rast map= lsat5_1987_10
 </div>
+After this map will be displayed
+![Input Map](https://github.com/Mloweedgar/Mloweedgar.github.io/blob/master/images/input_map.png)
+
+3. 
 
 
 The following video shows how the whole process of creating a flood map from give tiff is operated
