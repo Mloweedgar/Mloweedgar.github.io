@@ -21,16 +21,20 @@ published: true
 2. List available raster files from the sample data and load one 
 with name sat5_1987_10.
 Execute the following command on the grass console.
-<div style="background-color:#CCC; border-radius:4px; padding:3% 2% 0 2%;">
+<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 2%;">
    d.rast map= lsat5_1987_10
 </div>
-After this map will be displayed
+After this,the following map will be displayed
 ![Input Map](https://raw.githubusercontent.com/Mloweedgar/Mloweedgar.github.io/master/images/input_map_sm.png)
 
-3. 
+3. Execute g.region on the input map and it should be ready to run r.hazard.flood procedure.
+Here is the command to run on the console
+<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 2%;">
+r.hazard.flood map= lsat5_1987_10  flood=flood_map mti=mti_map
+</div>
 
 
-The following video shows how the whole process of creating a flood map from give tiff is operated
+The following video shows how the whole process of creating a flood map from the given tiff is operated
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1ctU3jJewrk=youtu.be
 " target="_blank"><img src="http://img.youtube.com/vi/1ctU3jJewrk=youtu.be/0.jpg" 
 alt="HOW TO VIDEO" width="240" height="180" border="10" />
