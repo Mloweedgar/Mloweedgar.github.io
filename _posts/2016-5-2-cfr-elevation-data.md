@@ -16,7 +16,7 @@ published: true
 
 #### STEPS
 
-1. Launch GRASS with the following sample data [Grass Sample Data](https://grass.osgeo.org/grass64/manuals/helptext.html)
+1. Launch GRASS with the following sample data [Grass Sample Data](https://grass.osgeo.org/download/sample-data/)
 
 2. List available raster files from the sample data and load one 
 with name sat5_1987_10.
