@@ -22,7 +22,7 @@ published: true
 with name sat5_1987_10.
 Execute the following command on the grass console.
 <div style="background-color:#CCC; border-radius:4px; padding:3% 2% 0 2%;">
-d.rast map= lsat5_1987_10
+   d.rast map= lsat5_1987_10
 </div>
 After this map will be displayed
 ![Input Map](https://raw.githubusercontent.com/Mloweedgar/Mloweedgar.github.io/master/images/input_map.png)
