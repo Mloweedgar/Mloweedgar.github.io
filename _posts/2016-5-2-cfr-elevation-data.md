@@ -21,7 +21,7 @@ published: true
 2. List available raster files from the sample data and load one 
 with name sat5_1987_10.
 Execute the following command on the console.
-<div style="background-color:#CCC; border-radius:4px">
+<div style="background-color:#CCC; border-radius:4px; padding:10px 5px 0px 2px;">
 d.rast map= lsat5_1987_10
 </div>
 
