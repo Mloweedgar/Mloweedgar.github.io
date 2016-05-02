@@ -19,6 +19,17 @@ The following video shows how the whole process of creating a flood map from giv
 " target="_blank"><img src="http://img.youtube.com/vi/1ctU3jJewrk=youtu.be/0.jpg" 
 alt="HOW TO VIDEO" width="240" height="180" border="10" /></a>
 
+### STEPS IN PRODUCING FLOOD MAPS
+*1. Start up grass gis with sample data.
+
+A folder called grassdata is created and inside it the downloaded sample data set is
+
+placed. At start up the path to grassdata is provided for grass gis to find the sample data.
+
+Here is the link for more details on grass gis start up,
+
+https://grass.osgeo.org/grass64/manuals/helptext.html.
+
 ### PROGRESS 
 I have been able to produce flood hazard maps using grass gis. I have prepared a document that describes step by step how to produce flood maps using grass gis
 I have been able to create a python script that can initialize grass session(environment) and hence being able to access grass modules without explicitly starting grass gis. Therefore being able to produce flood maps without using grass gis directly
