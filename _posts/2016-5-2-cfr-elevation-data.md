@@ -21,7 +21,7 @@ published: true
 2. List available raster files from the sample data and load one 
 with name sat5_1987_10.
 Execute the following command on the grass console.
-<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 2%;">
+<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 3%;">
    d.rast map= lsat5_1987_10
 </div>
 After this,the following map will be displayed
@@ -29,7 +29,7 @@ After this,the following map will be displayed
 
 3. Execute g.region on the input map and it should be ready to run r.hazard.flood procedure.
 Here is the command to run on the console
-<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 2%;">
+<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 3%;">
 r.hazard.flood map= lsat5_1987_10  flood=flood_map mti=mti_map
 </div>
 
