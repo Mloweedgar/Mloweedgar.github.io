@@ -41,7 +41,7 @@ The expected output for this example should be
 The following video shows how the whole process of creating a flood map from the given tiff is operated
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1ctU3jJewrk=youtu.be
 " target="_blank"><img src="http://img.youtube.com/vi/1ctU3jJewrk=youtu.be/0.jpg" 
-alt="HOW TO VIDEO" width="720" height="180" border="10" />
+alt="HOW TO VIDEO" width="720" height="250" border="10" />
 </a>
 
 
