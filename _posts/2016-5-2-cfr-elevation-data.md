@@ -8,15 +8,14 @@ published: true
 
 
 ### CURRENT STATUS
-Developing a User Interface in Inasafe to facilitate production of flood maps from qgis.
-Integrating the python script which has the codes for producing flood maps in the inasafe repository and make it available in Inasafe plugin  from QGIS.
-Adding more grass gis  commands to the python script to make the production of flood map more easier and user friendly
-Working on producing flood maps from raster files with size greater than 1GB.
+* Developed a User Interface in Inasafe to facilitate production of flood maps from qgis.
+* Integrating the python script which has the codes for producing flood maps in the inasafe repository and make it available in Inasafe plugin  from QGIS.
+* Working on producing flood maps from raster files with size greater than 1GB.
 
 ### HOW TO 
 
 The following video shows how the whole process of creating a flood map from give tiff is operated
-![How_To_Video_Link](http://youtube.com/watch?v=kdowe8o)
+[![How to Video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
 ### PROGRESS 
