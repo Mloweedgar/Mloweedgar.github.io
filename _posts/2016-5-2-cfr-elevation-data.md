@@ -25,7 +25,7 @@ Execute the following command on the grass console.
 d.rast map= lsat5_1987_10
 </div>
 After this map will be displayed
-![Input Map](https://github.com/Mloweedgar/Mloweedgar.github.io/blob/master/images/input_map.png)
+![Input Map](https://raw.githubusercontent.com/Mloweedgar/Mloweedgar.github.io/blob/master/images/input_map.png)
 
 3. 
 
