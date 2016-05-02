@@ -14,13 +14,26 @@ published: true
 
 ### HOW TO 
 
-#### STEPS .
+#### STEPS
+
+1. Launch GRASS with the following sample data [Grass Sample Data](https://grass.osgeo.org/grass64/manuals/helptext.html)
+
+2. List available raster files from the sample data and load one 
+with name sat5_1987_10.
+Use the following command
+<pre>
+<code class="language-css" data-lang="css"><span class="nf">#ne_10m_admin_0_countries</span><span class="o">[</span><span class="nt">ADM0_A3_IS</span><span class="o">=</span><span class="s1">'AUS'</span><span class="o">]</span> <span class="p">{</span>
+  <span class="n">polygon</span><span class="o">-</span><span class="n">fill</span><span class="o">:</span> <span class="m">#c2d093</span><span class="p">;</span>
+  <span class="n">line</span><span class="o">-</span><span class="k">width</span><span class="o">:</span> <span class="m">0</span><span class="o">.</span><span class="m">5</span><span class="p">;</span>
+<span class="p">}</span></code>
+</pre>
 
 
 The following video shows how the whole process of creating a flood map from give tiff is operated
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1ctU3jJewrk=youtu.be
 " target="_blank"><img src="http://img.youtube.com/vi/1ctU3jJewrk=youtu.be/0.jpg" 
-alt="HOW TO VIDEO" width="240" height="180" border="10" /></a>
+alt="HOW TO VIDEO" width="240" height="180" border="10" />
+</a>
 
 
 
@@ -31,5 +44,3 @@ I have been able to create a python script that can initialize grass session(env
 
 ### CHALLENGES
 The most big challenge is the computer processing ability and RAM, this has lead to difficulties in running analysis in maps of size more than 500MB.this has made me rely on sample data set which I obtained from grass gis official website. The data set has raster files with size less than 400MB which my computer could process.
-
-
