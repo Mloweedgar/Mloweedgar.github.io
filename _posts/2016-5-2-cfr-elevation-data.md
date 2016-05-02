@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CfR Elevation Data
-published:true
+published: true
 ---
 
 ## Code for Resilience Elevation Data Integration
