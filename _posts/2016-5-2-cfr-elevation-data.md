@@ -15,8 +15,9 @@ published: true
 ### HOW TO 
 
 The following video shows how the whole process of creating a flood map from give tiff is operated
-[![How to Video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="HOW TO VIDEO" width="240" height="180" border="10" /></a>
 
 ### PROGRESS 
 I have been able to produce flood hazard maps using grass gis. I have prepared a document that describes step by step how to produce flood maps using grass gis
