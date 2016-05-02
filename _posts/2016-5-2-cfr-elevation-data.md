@@ -33,6 +33,10 @@ Here is the command to run on the console
 r.hazard.flood map= lsat5_1987_10  flood=flood_map mti=mti_map
 </div>
 
+The expected output for this example should be 
+![Flood Map](https://raw.githubusercontent.com/Mloweedgar/Mloweedgar.github.io/master/images/flood_hazard_map.png)
+
+
 
 The following video shows how the whole process of creating a flood map from the given tiff is operated
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1ctU3jJewrk=youtu.be
