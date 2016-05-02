@@ -20,13 +20,10 @@ published: true
 
 2. List available raster files from the sample data and load one 
 with name sat5_1987_10.
-Use the following command
-<pre>
-<code class="language-css" data-lang="css"><span class="nf">#ne_10m_admin_0_countries</span><span class="o">[</span><span class="nt">ADM0_A3_IS</span><span class="o">=</span><span class="s1">'AUS'</span><span class="o">]</span> <span class="p">{</span>
-  <span class="n">polygon</span><span class="o">-</span><span class="n">fill</span><span class="o">:</span> <span class="m">#c2d093</span><span class="p">;</span>
-  <span class="n">line</span><span class="o">-</span><span class="k">width</span><span class="o">:</span> <span class="m">0</span><span class="o">.</span><span class="m">5</span><span class="p">;</span>
-<span class="p">}</span></code>
-</pre>
+Execute the following command.
+<div style="background-color:#CCC; border-radius:4px">
+d.rast map= lsat5_1987_10
+</div>
 
 
 The following video shows how the whole process of creating a flood map from give tiff is operated
