@@ -15,8 +15,8 @@ published: true
 ### HOW TO 
 
 The following video shows how the whole process of creating a flood map from give tiff is operated
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=j7zKe5lp9lQ&feature=youtu.be
-" target="_blank"><img src="http://img.youtube.com/vi/https://www.youtube.com/watch?v=j7zKe5lp9lQ&feature=youtu.be/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j7zKe5lp9lQ&feature=youtu.be
+" target="_blank"><img src="http://img.youtube.com/vi/j7zKe5lp9lQ&feature=youtu.be/0.jpg" 
 alt="HOW TO VIDEO" width="240" height="180" border="10" /></a>
 
 ### PROGRESS 
