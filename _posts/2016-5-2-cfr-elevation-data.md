@@ -9,8 +9,8 @@ published: true
 
 ### CURRENT STATUS
 * Developed a User Interface in Inasafe to facilitate production of flood maps from qgis.
+
 * Integrating the python script which has the codes for producing flood maps in the inasafe repository and make it available in Inasafe plugin  from QGIS.
-* Working on producing flood maps from raster files with size greater than 1GB.
 
 ### HOW TO 
 
