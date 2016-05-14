@@ -24,6 +24,8 @@ published: true
 
 
 2. Execute g.region on the input map and it should be ready to run r.hazard.flood procedure. Here is the command to run on the    console
+
+
           g.region raster=2015-05-20_tandale_merged_dsm
           r.hazard.flood map=2015-05-20_tandale_merged_dsm flood=flood mti=mti
 
