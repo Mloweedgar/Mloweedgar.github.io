@@ -16,24 +16,22 @@ published: true
 
 #### STEPS
 
-1. Launch GRASS with the following sample data [Grass Sample Data](https://grass.osgeo.org/download/sample-data/)
+1. Launch GRASS with the grassdata location and import raster data.
+   2015-05-20_tandale_merged_dsm.tif was used for analysis.
 
-2. List available raster files from the sample data and load one 
-with name lsat5_1987_10.
-Execute the following command on the grass console.
-<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 3%;">
-   d.rast map= lsat5_1987_10
-</div>
-After this,the following map will be displayed
+    This is the input map for analysis
 ![Input Map](https://raw.githubusercontent.com/Mloweedgar/Mloweedgar.github.io/master/images/input_map_sm.png)
 
-3. Execute g.region on the input map and it should be ready to run r.hazard.flood procedure.
-Here is the command to run on the console
-<div style="font-style:italic; background-color:#CCC; border-radius:4px; padding:3% 2% 0 3%;">
-r.hazard.flood map= lsat5_1987_10  flood=flood_map mti=mti_map
-</div>
 
-The expected output for this example should be 
+2. Execute g.region on the input map and it should be ready to run r.hazard.flood procedure. Here is the command to run on the    console
+          g.region raster=2015-05-20_tandale_merged_dsm
+          r.hazard.flood map=2015-05-20_tandale_merged_dsm flood=flood mti=mti
+
+
+3.The raster map named flood is the expected output flood map, It can now be displayed to view flood prone areas.
+
+
+This is the map obtained after analysis 
 ![Flood Map](https://raw.githubusercontent.com/Mloweedgar/Mloweedgar.github.io/master/images/flood_hazard_map.png)
 
 
