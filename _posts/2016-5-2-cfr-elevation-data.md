@@ -37,8 +37,6 @@ This is the map obtained after analysis
 
 
 
-
-
 ### PROGRESS 
 I have been able to produce flood hazard maps using grass gis. I have prepared a document that describes step by step how to produce flood maps using grass gis
 I have been able to create a python script that can initialize grass session(environment) and hence being able to access grass modules without explicitly starting grass gis. Therefore being able to produce flood maps without using grass gis directly
