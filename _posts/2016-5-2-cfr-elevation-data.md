@@ -36,13 +36,6 @@ This is the map obtained after analysis
 
 
 
-The following video shows how the whole process of creating a flood map from the given tiff is operated
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=1ctU3jJewrk=youtu.be
-" target="_blank"><img src="http://img.youtube.com/vi/1ctU3jJewrk=youtu.be/0.jpg" 
-alt="HOW TO VIDEO" width="720" height="250" border="10" />
-</a>
-
-For more information, please the documentation here [Further Documentation](https://docs.google.com/document/d/1m9cylL7gV9A_O8qL0TEiIkZxqiASeFQYGpKJxjiVFTM/edit?usp=sharing)
 
 
 
